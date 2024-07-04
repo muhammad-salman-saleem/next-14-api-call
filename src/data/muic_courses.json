@@ -1,0 +1,205 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Course 1",
+        "slug": "course-1",
+        "description": "This is the description for course 1.",
+        "price": 78.26,
+        "instructor": "Instructor 1",
+        "isFeatured": true,
+        "image": "https://example.com/image1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Course 2",
+        "slug": "course-2",
+        "description": "This is the description for course 2.",
+        "price": 36.05,
+        "instructor": "Instructor 2",
+        "isFeatured": false,
+        "image": "https://example.com/image2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Course 3",
+        "slug": "course-3",
+        "description": "This is the description for course 3.",
+        "price": 98.32,
+        "instructor": "Instructor 3",
+        "isFeatured": false,
+        "image": "https://example.com/image3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Course 4",
+        "slug": "course-4",
+        "description": "This is the description for course 4.",
+        "price": 74.74,
+        "instructor": "Instructor 4",
+        "isFeatured": true,
+        "image": "https://example.com/image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Course 5",
+        "slug": "course-5",
+        "description": "This is the description for course 5.",
+        "price": 68.86,
+        "instructor": "Instructor 5",
+        "isFeatured": false,
+        "image": "https://example.com/image5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Course 6",
+        "slug": "course-6",
+        "description": "This is the description for course 6.",
+        "price": 97.95,
+        "instructor": "Instructor 6",
+        "isFeatured": false,
+        "image": "https://example.com/image6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Course 7",
+        "slug": "course-7",
+        "description": "This is the description for course 7.",
+        "price": 50.59,
+        "instructor": "Instructor 7",
+        "isFeatured": true,
+        "image": "https://example.com/image7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Course 8",
+        "slug": "course-8",
+        "description": "This is the description for course 8.",
+        "price": 55.61,
+        "instructor": "Instructor 8",
+        "isFeatured": true,
+        "image": "https://example.com/image8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Course 9",
+        "slug": "course-9",
+        "description": "This is the description for course 9.",
+        "price": 59.47,
+        "instructor": "Instructor 9",
+        "isFeatured": true,
+        "image": "https://example.com/image9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Course 10",
+        "slug": "course-10",
+        "description": "This is the description for course 10.",
+        "price": 61.65,
+        "instructor": "Instructor 10",
+        "isFeatured": false,
+        "image": "https://example.com/image10.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Course 11",
+        "slug": "course-11",
+        "description": "This is the description for course 11.",
+        "price": 43.7,
+        "instructor": "Instructor 11",
+        "isFeatured": false,
+        "image": "https://example.com/image11.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Course 12",
+        "slug": "course-12",
+        "description": "This is the description for course 12.",
+        "price": 95.38,
+        "instructor": "Instructor 12",
+        "isFeatured": true,
+        "image": "https://example.com/image12.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Course 13",
+        "slug": "course-13",
+        "description": "This is the description for course 13.",
+        "price": 64.4,
+        "instructor": "Instructor 13",
+        "isFeatured": true,
+        "image": "https://example.com/image13.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Course 14",
+        "slug": "course-14",
+        "description": "This is the description for course 14.",
+        "price": 61.88,
+        "instructor": "Instructor 14",
+        "isFeatured": false,
+        "image": "https://example.com/image14.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Course 15",
+        "slug": "course-15",
+        "description": "This is the description for course 15.",
+        "price": 94.5,
+        "instructor": "Instructor 15",
+        "isFeatured": false,
+        "image": "https://example.com/image15.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Course 16",
+        "slug": "course-16",
+        "description": "This is the description for course 16.",
+        "price": 80.01,
+        "instructor": "Instructor 16",
+        "isFeatured": true,
+        "image": "https://example.com/image16.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Course 17",
+        "slug": "course-17",
+        "description": "This is the description for course 17.",
+        "price": 25.08,
+        "instructor": "Instructor 17",
+        "isFeatured": false,
+        "image": "https://example.com/image17.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Course 18",
+        "slug": "course-18",
+        "description": "This is the description for course 18.",
+        "price": 96.51,
+        "instructor": "Instructor 18",
+        "isFeatured": false,
+        "image": "https://example.com/image18.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Course 19",
+        "slug": "course-19",
+        "description": "This is the description for course 19.",
+        "price": 96.79,
+        "instructor": "Instructor 19",
+        "isFeatured": false,
+        "image": "https://example.com/image19.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Course 20",
+        "slug": "course-20",
+        "description": "This is the description for course 20.",
+        "price": 83.16,
+        "instructor": "Instructor 20",
+        "isFeatured": false,
+        "image": "https://example.com/image20.jpg"
+      }
+    ]
+  }
+  
